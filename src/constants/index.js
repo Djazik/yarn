@@ -1,0 +1,1 @@
+export const ENDPOINT = "https://662136913bf790e070b2396b.mockapi.io"
